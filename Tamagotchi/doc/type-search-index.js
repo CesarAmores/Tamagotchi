@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"it.unibs.tamagotchi","l":"Tamagotchi"},{"p":"it.unibs.tamagotchi","l":"TamagotchiMain"},{"p":"it.unibs.tamagotchi","l":"Utility"}]
