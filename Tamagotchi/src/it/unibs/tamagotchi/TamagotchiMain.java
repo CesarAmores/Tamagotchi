@@ -34,6 +34,7 @@ public class TamagotchiMain
 				    break;
 				    }
 			   
+			   
 			   case(2):
 				   {
 				    Utility.dareCarezze(cavia);
